@@ -1,7 +1,7 @@
 name: Deploy Node App to EC2
 
 on:
-  worklow_dispath:
+  workflow_dispath:
 
 jobs:
   deploy:
